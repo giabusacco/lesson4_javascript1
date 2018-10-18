@@ -4,22 +4,22 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 18, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Gia Busacco)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(In this assignment I added the correct code to find out the calculations of the expenses of any given user.)
 
 ### View Project:
 (Replace this statement with your GitHub Page URL that was created when you 
  published the project.)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (I learned how to use the getElementById() method to reference elements of my webpage using the id value.)
+2. (I realized the importance of declaring the total expenses before completing the division.)
+3. (I learned how to erase codes to replace it with an empty string.)
 
 
 
